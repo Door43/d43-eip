@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eip:home|Door43 (eip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eip|d43-eip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eip/archive/master.zip|d43-eip.zip]]
+
+**Recent Changes**
+{{changes>ns = eip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eip|Ethnologue data]]
+
